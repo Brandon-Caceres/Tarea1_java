@@ -84,3 +84,5 @@ El sistema muestra y elimina el ticket con mayor prioridad y antigüedad para se
 - Opción seleccionada: 5) Buscar Ticket por ID  
 - Ingrese el ID del ticket: 9272  
 El sistema muestra los detalles del ticket si existe, o un mensaje indicando que no fue encontrado.
+
+# Fin
