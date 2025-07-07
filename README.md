@@ -29,6 +29,16 @@ java -cp bin Main
 
 ---
 
+## Estructura del código
+
+- `Main.java`     # Programa principal con menú y control de flujo.
+- `Utils.java`    # Funciones auxiliares como limpiar pantalla y pausa.
+- `Ticket.java`   # Clase que representa un ticket con ID, descripción, prioridad y fecha.
+- `Menu.java`     # Clase encargada de mostrar el menú principal.
+- `TicketManager.java` # Clase con métodos para manejar la lista de tickets.
+
+---
+
 ## Funcionalidades implementadas
 
 - Registrar nuevos tickets con prioridad inicial **Bajo** y fecha/hora de ingreso automática.
